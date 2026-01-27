@@ -1,4 +1,29 @@
-## 👋 Hi, I'm Paweł
+## 👋 Hi, I'm Paweł Dubiel
+
+Software / Solution Architect with 20+ years in software development.  
+
+---
+
+### 🧭 Focus areas
+- Distributed systems & event-driven architecture
+- Subscription billing, renewals, migrations
+- Stripe integrations & payment workflows
+- JVM (Java 21, Kotlin), concurrency & performance
+- Data consistency, idempotency, failure handling
+
+---
+
+### 🛠️ Tech stack
+- **Languages:** Java, Kotlin, TypeScript, Python
+- **Backend:** Spring Boot, Kafka, Hibernate, MySQL, DynamoDB
+- **Infra:** AWS, Docker, GitHub Actions
+- **Observability:** Datadog, structured logging, metrics-first design
+
+---
+
+### ✍️ Notes https://paweldubiel.com/
+- Technical notes on architecture, migrations, and system design
+- Explorations around AI, complexity, and antifragile systems
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawel-dubiel&show_icons=true)
 

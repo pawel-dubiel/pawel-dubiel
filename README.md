@@ -14,10 +14,10 @@ Software / Solution Architect with 20+ years in software development.
 ---
 
 ### 🛠️ Tech stack
-- **Languages:** Java, Kotlin, TypeScript, Python
+- **Languages:** Java, Kotlin, Python
 - **Backend:** Spring Boot, Kafka, Hibernate, MySQL, DynamoDB
 - **Infra:** AWS, Docker, GitHub Actions
-- **Observability:** Datadog, structured logging, metrics-first design
+- **Observability:** Datadog
 
 ---
 

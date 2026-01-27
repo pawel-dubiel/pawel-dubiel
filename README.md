@@ -34,4 +34,8 @@ Software / Solution Architect with 20+ years in software development.
 ![Kotlin](https://img.shields.io/badge/Kotlin-JVM-purple)
 ![Stripe](https://img.shields.io/badge/Stripe-Payments-blue)
 ![Kafka](https://img.shields.io/badge/Kafka-Streaming-black)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-Architecture-0A1AFF)
+![Microservices](https://img.shields.io/badge/Microservices-Distributed-2E8B57)
+![DDD](https://img.shields.io/badge/DDD-Domain--Driven%20Design-8B4513)
+![Idempotency](https://img.shields.io/badge/Idempotency-Critical-4B0082)
 

@@ -25,8 +25,6 @@ Software / Solution Architect with 20+ years in software development.
 - Technical notes on architecture, migrations, and system design
 - Explorations around AI, complexity, and antifragile systems
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawel-dubiel&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawel-dubiel&layout=compact)
 
 

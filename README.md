@@ -25,9 +25,6 @@ Software / Solution Architect with 20+ years in software development.
 - Technical notes on architecture, migrations, and system design
 - Explorations around AI, complexity, and antifragile systems
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawel-dubiel&layout=compact)
-
-
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Kotlin](https://img.shields.io/badge/Kotlin-JVM-purple)
 ![Stripe](https://img.shields.io/badge/Stripe-Payments-blue)

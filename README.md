@@ -6,7 +6,7 @@ Software / Solution Architect with 20+ years in software development.
 
 ### Recent Projects / Experiments 
 
-- https://github.com/pawel-dubiel/AgentMachine (current)
+- https://github.com/pawel-dubiel/AgentMachine (current) - I wanted to understand better subagents communication, AI harness etc
 - https://github.com/pawel-dubiel/Forensic-Traces-Generator (digital twins of physical tools)
 - https://github.com/pawel-dubiel/UAV-simulator (experiment with drone swarms, very early)
 - https://github.com/pawel-dubiel/rotk-style-medieval-game ( fun )

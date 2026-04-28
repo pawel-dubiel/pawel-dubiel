@@ -9,13 +9,14 @@ Software / Solution Architect with 20+ years in software development.
 - https://github.com/pawel-dubiel/AgentMachine (current)
 - https://github.com/pawel-dubiel/Forensic-Traces-Generator (digital twins of physical tools)
 - https://github.com/pawel-dubiel/UAV-simulator (experiment with drone swarms, very early)
-- https://github.com/pawel-dubiel/rotk-style-medieval-game
+- https://github.com/pawel-dubiel/rotk-style-medieval-game ( fun )
 - https://github.com/pawel-dubiel/local-tv (idea of having AI generate channels from youtube and continues streaming)
 - https://github.com/pawel-dubiel/galaxy-simulation ( real time 1mln+ stars)
-- https://github.com/pawel-dubiel/Drone-Simulation
+- https://github.com/pawel-dubiel/Drone-Simulation ( fun - uses real maps from google, godot )
 - many many more
 
 ### 🧭 Focus areas
+- AI 
 - Distributed systems & event-driven architecture
 - Subscription billing, renewals, migrations
 - Stripe integrations & payment workflows

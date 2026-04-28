@@ -4,7 +4,7 @@ Software / Solution Architect with 20+ years in software development.
 
 ---
 
-### Projects / Experiments 
+### Recent Projects / Experiments 
 
 - https://github.com/pawel-dubiel/AgentMachine (current)
 - https://github.com/pawel-dubiel/Forensic-Traces-Generator (digital twins of physical tools)

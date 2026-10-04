@@ -4,6 +4,11 @@ Software / Solution Architect with 20+ years in software development.
 
 ---
 
+### Projects
+
+- https://github.com/pawel-dubiel/maly-gpt-po-polsku ( small gpt train on Polish literature )
+
+
 ### 🧭 Focus areas
 - Distributed systems & event-driven architecture
 - Subscription billing, renewals, migrations
